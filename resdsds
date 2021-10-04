@@ -1,0 +1,65 @@
+                                         --------------------------------------------------------------------------------------------------------------------
+                                       /                                                                                                                   /
+                                      /                                               PROGRAMMAZIONE                                                      /
+                                     /                                                                                                                   /
+                                     --------------------------------------------------------------------------------------------------------------------                                                                        
+                                                                                                                                           
+                                       
+
+
+                          1.   /////////
+                          2.  /////////
+                          3.  una classe, è un 'contenitore' dove dentro ci sono metodi e attributi. (es ---->Programma----->Istruzioni---->Metodi--->Classe.)
+                          4. il linguaggio compilato è un codice compilato ed eseguibile. il linguaggio interpretato è un codice compilato e poi passato ad un interprete(traduttore) per essere eseguito Esempio:PHP
+                          5. //////////
+                          6. //////////
+                          7. //////////
+                         
+                         
+                         
+                         
+                         
+                         
+                                       --------------------------------------------------------------------------------------------------------------------
+                                      /                                                                                                                   /
+                                     /                                                        SQL                                                        /
+                                    /                                                                                                                   /
+                                    --------------------------------------------------------------------------------------------------------------------                                                                        
+                          
+                          
+                          1. //////////////////////////////////////////////////////////////////////////////////////
+                          2.
+                               Non ho mai scritto da solo le query di sql, di solito io faccio le cose semplici su sql come l'attachment del 
+                               database, la gestione degli account, e risolvo i problemi del errrore 5 durante l'attachment, niente di che come avevo già
+                               specificato nel curriculum.
+                          3.
+                          4. ////////////////////////////////////////////////////////////////////////////////////
+                         
+
+
+                                        --------------------------------------------------------------------------------------------------------------------
+                                       /                                                                                                                   /
+                                      /                                                    Hardware                                                       /
+                                     /                                                                                                                   /
+                                     --------------------------------------------------------------------------------------------------------------------                                                                        
+                          
+                            1. Una macchina Virtuale è un sistema che emula un altro computer quindi un computer dentro un computer, dove noi non abbiamo parti fisiche ma solo virtuali
+                               uno dei software più conosciuti per le virtual machine è virtual Box, io personalmente l'ho usato per usare uno script su AHK mentre continuavo ad usare il mio
+                               pc normalmente. o magari giusto per provare Linux. ho notato che con pc poco potenti, o senza gestire le impostazioni bene, la macchina virtuale ha gravi problemi di lag.
+                            2. Il  Sistema RAID dei dischi(insieme di dischi indipendenti) serve ad unire molti dischi per arrivare ad avere una sicurezza dei dati, anche se dovessero rompersi 1 o più HD,
+                               Lo striping serve per migliorare le prestazioni.(per esempio i dati vengono splittati in 2 dischi consentendo di mantenere la capacità intera dei dischi esempio 500+500=1TB in questo caso i dati non sono in sicurezza)
+                               Il Mirroring nella scrittura dei dati sul disco 1 viene creato un backup diretto nel disco 2(in questo caso se il disco 1 dovesse rompersi il disco 2 avrà un  backup, 500+500gb=solo 500gb l'altra metà sarà occupata dal backup se si danneggiano entrambi i dischi verrà perso tutto.)
+                               RAID 5 soluzione migliore per i NAS in questo caso ci sarebbe la fusione sia di striping e mirroring(a differenza del raid uno stavolta sono dati di parità non file di backup se si danneggiano i dischi, la macchina riuscirà lo stesso a ricostruire i file salvati.). (esempio 3 dischi, 1 sacrificale, 2 funzionanti)
+                               P.S ho dato io l'idea a francesco del NAS.
+                               
+                               
+                                        --------------------------------------------------------------------------------------------------------------------
+                                       /                                                                                                                   /
+                                      /                                                    Networking                                                     /
+                                     /                                                                                                                   /
+                                     --------------------------------------------------------------------------------------------------------------------   
+                               
+                               1. Esempio server DNS (URL=www.casamia.com tradotto DNS= 127.0.0.1, se il dns fornito dal nostro provider 'Fatweb' non riesce a trovare l'ip inizierà a switchare su altri server.) il NAT invece si usa a causa della scarsa quantità di IP pubblici quindi è la capacità di un router di tradurre un indirizzo IP privato in un indirizzo IP pubblico e viceversa.
+                               2. L'indirizzo MAC è il Numero identificativo di un device assegnato dal produttore(quindi quello locale), mentre l'IP è il numero identificatico Pubblico assegnato dal provider(quindi globale) 
+                               3. Il comando Ping si usa per sapere se un computer o un sito web è online, oppure per conoscere la latenza tra sistema-sito Web o server di destinazione. esempio banale il Lag mentre si gioca; PING: 112ms packet loss:75%
+                               4. //////////
